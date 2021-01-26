@@ -1,0 +1,5 @@
+# ////// SETTINGS \\\\\
+enabled: true
+# enable or disable the plugin
+tpscap: 15
+# set to int at which tps will be capped
